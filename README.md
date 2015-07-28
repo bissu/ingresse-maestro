@@ -1,7 +1,7 @@
 # maestro
 Server monitoring and micro service orchestration
 
-![alt tag](https://raw.github.com/danielterra/maestro/master/screenshot.png)
+![alt tag](https://raw.github.com/bissuh/ingresse-maestro/master/screenshot.png)
 
 With Maestro you keep a clean interface for all you microservices. When you deploy a service a socket connection is estabilished with maestro, then your service register all the routes it responds. When a request comes to Maestro it fowards that request to the responsable micro service.
 
